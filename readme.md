@@ -1,1 +1,1 @@
-[![Les Stats GitHub de iZy](https://github-readme-stats.vercel.app/api?username=iZyCorp)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=iZyCorp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
