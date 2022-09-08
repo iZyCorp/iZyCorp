@@ -5,6 +5,8 @@ ___
 I'm a french Developper that enjoy discover new technologies !\
 I also like drawing things.
 
+![](img/watermelon.png) Owner of the Watermelon discord bot.
+
 ### What kind of stuff did I do ?
 ___
 
