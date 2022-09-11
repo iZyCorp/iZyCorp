@@ -7,6 +7,8 @@ I also like drawing things.
 
 ![](img/watermelon.png) Owner of the Watermelon discord bot.
 
+Websites : [Personal](https://izycorporation.fr/) / [Watermelon](https://watermelonbot.xyz/)
+
 ### What kind of stuff did I do ?
 ___
 
